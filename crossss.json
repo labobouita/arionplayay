@@ -2,14 +2,14 @@
 {
   "ads": [
     {
+      "isAdsEnabled": false,
+      "imageUrl": "",
+      "link1": "https://play.google.com/store/apps/details?id=com.coinnova.toss.coinovatoss.toss.coinova.getyx&gl=ph"
+    },
+    {
       "isAdsEnabled": true,
       "imageUrl": "https://raw.githubusercontent.com/labobouita/arionplayay/refs/heads/main/packzzzpipi.jpeg",
       "link1": "https://play.google.com/store/apps/details?id=com.packz.packzcards.packzz.winpack.cardpackz&gl=ph"
-    },
-    {
-      "isAdsEnabled": false,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?_=20170905101301",
-      "link1": "https://www.youtube.com/"
     },
     {
       "isAdsEnabled": false,
