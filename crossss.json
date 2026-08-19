@@ -2,8 +2,8 @@
 {
   "ads": [
     {
-      "isAdsEnabled": false,
-      "imageUrl": "",
+      "isAdsEnabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/labobouita/arionplayay/refs/heads/main/unlcok50.png",
       "link1": "https://play.google.com/store/apps/details?id=com.coinnova.toss.coinovatoss.toss.coinova.getyx&gl=ph"
     },
     {
